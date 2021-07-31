@@ -1,0 +1,5 @@
+{
+  "editor.fontSize": 10,
+  "pasteImage.path": "${currentFileDir}/images/",
+  "pasteImage.prefix": "./images/"
+}
