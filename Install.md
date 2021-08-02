@@ -6,6 +6,11 @@
 * 맥용 다운로드 : https://golang.org/doc/install?download=go1.16.6.darwin-amd64.pkg
 * (windows)다운로드 : https://golang.org/doc/install?download=go1.16.6.windows-amd64.msi
 
+# for mac
+mac에서는 brew로 쉽게 설치 가능
+```
+  $ brew install go
+```
 
 ## Workspace 설정하기
 

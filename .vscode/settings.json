@@ -1,5 +1,9 @@
 {
   "editor.fontSize": 10,
   "pasteImage.path": "${currentFileDir}/images/",
-  "pasteImage.prefix": "./images/"
+  "pasteImage.prefix": "./images/",
+  "cSpell.words": [
+    "GOROOT",
+    "Println"
+  ]
 }
