@@ -4,6 +4,7 @@
   "pasteImage.prefix": "./images/",
   "cSpell.words": [
     "GOROOT",
-    "Println"
+    "Println",
+    "gotudy"
   ]
 }
