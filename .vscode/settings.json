@@ -6,5 +6,18 @@
     "GOROOT",
     "Println",
     "gotudy"
-  ]
+  ],
+  "editor.tabSize": 4,
+  "[go]": {
+    "editor.insertSpaces": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+  },
+  "go.formatTool": "gofmt",
+  "go.formatFlags": [
+      "-s"
+  ],
+  "go.autocompleteUnimportedPackages": true,
 }
