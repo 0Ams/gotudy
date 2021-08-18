@@ -5,7 +5,7 @@ function cleanTestCache() {
 }
 
 function test_() {
-    go test ./algorithm/...;
+    go clean -testcache && go test ./algorithm/...;
 }
 
 case $1 in
